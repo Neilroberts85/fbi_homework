@@ -1,0 +1,13 @@
+div#root {background-color: rgba(28,41,76)
+  ;}
+
+h1 {font-size: 45px;
+font-weight: 900;
+color: rgba(255,198,0);
+text-align:  center;}
+
+.fbi {display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
